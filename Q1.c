@@ -9,6 +9,8 @@ int main(){
 
     ptr = str;
 
+    // hello
+
 
     while(*ptr != '\0'){
         if((int)*ptr == 32){
